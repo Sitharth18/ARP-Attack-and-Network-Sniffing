@@ -1,6 +1,4 @@
 # ARP-Attack-and-Network-Sniffing
-Name: Divya R V
-Reg no: 212223100005
 # Explore Network Sniffing and ARP Aacks
 # AIM:
 To explore network sniffing and ARP Aacks
